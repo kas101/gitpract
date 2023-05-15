@@ -65,3 +65,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 This is going to be rather interesting
+
+The art of posing a question is held of higher value than the answer to the question.
+Your ability to manage fear will determine the success you can attain.
